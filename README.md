@@ -1,8 +1,8 @@
 # 📘 Assignment 1 — Patterns & Problem Solving
 **MCA | Object-Oriented Programming with Java**
-**Total: 10 Questions | Each question auto-graded**
+**Total: 10 Questions**
 
----
+
 
 ## 📋 Questions
 
@@ -29,29 +29,6 @@
 4. Push karo → GitHub Actions automatically test karega
 
 ---
-
-## ✅ Auto-Check Kaise Dekhein
-
-- Repo ke **Actions** tab pe jao
-- Latest run dekho
-- Har question ka result alag dikhega:
-  - `✅ Test passed` = sahi hai
-  - `❌ Test FAILED` = galti hai, expected vs got dekho
-
----
-
-## 💻 Local Test Karne Ka Tarika
-
-```bash
-# Q01 ke liye
-cd src/q01
-javac Main.java
-echo "4" | java Main
-```
-
----
-
 ## ⚠️ Rules
 - `Main.java` ke alawa koi file mat banao
 - Class ka naam `Main` hi rakho
-- Extra print statements mat lagao (grader exact output check karta hai)
